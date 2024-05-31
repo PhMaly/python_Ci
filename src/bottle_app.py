@@ -4,7 +4,7 @@ from bottle import default_app, route, run
 
 @route('/')
 def hello_world():
-    return 'Hello from Bottle Test déploiement 2 !'
+    return 'Hello from Bottle Test déploiement 4545!'
 
 
 application = default_app()
