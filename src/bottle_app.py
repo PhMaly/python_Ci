@@ -9,6 +9,4 @@ def hello_world():
 
 application = default_app()
 
-if __name__ == "__main__":
-    run()
 
